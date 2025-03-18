@@ -27,6 +27,11 @@ This project is a Mobile Sales Dashboard that provides key insights into mobile 
 🎯 Key Insights
 
 ✅ 769M in total sales from 19K units and 4K transactions.
-✅ Apple, OnePlus, and Samsung are the top brands.
+
+✅ Apple, OnePlus, and Samsung are the top brands
+
 ✅ UPI is the most preferred payment method.
+
 ✅ Sales peak on Monday and Friday.
+
+![Dashboard Preview](https://raw.githubusercontent.com/SURAJ-MAURYA7/Mobile_Sales_Data_Dashboard_Using_PowerBI/main/Dashboard.png)
